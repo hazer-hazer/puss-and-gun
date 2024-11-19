@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brain/areas/tech/hardware/optics/project-hadley/hadley/","created":"2024-11-19T16:38:07.712+03:00","updated":"2024-11-19T17:10:34.233+03:00"}
+{"dg-publish":true,"dg-path":"tech/hardware/optics/Project Hadley/Hadley.md","permalink":"/tech/hardware/optics/project-hadley/hadley/","created":"2024-11-19T16:38:07.712+03:00","updated":"2024-11-19T20:20:44.636+03:00"}
 ---
 
 This is not my project but a story of how I built [Hadley Telescope](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig).
